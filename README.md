@@ -1,5 +1,5 @@
 # First-repository
 This is my first  Git Repository.
 <br>
-Author - shaik parvez
+Author - shaik parvez(student.gndec)
 
